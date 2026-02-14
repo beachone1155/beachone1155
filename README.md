@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- LAPRAS_CARD -->
+<!--START_SECTION:lapras-card--><!--END_SECTION:lapras-card-->
