@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+AWS / 生成AI / データ基盤 / バックエンド周辺の実装・自動化を試しています。
+
+### Writing & experiments
+
+- 技術記事: https://zenn.dev/beachone1155
+- AI収益1円チャレンジの実験ログ: https://beachone1155.hatenablog.com/  
+  ※リンク先には広告・PRを含む記事があります。
+
 <!--
 **beachone1155/beachone1155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
