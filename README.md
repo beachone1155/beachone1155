@@ -5,8 +5,8 @@ AWS / 生成AI / データ基盤 / バックエンド周辺の実装・自動化
 ### Writing & experiments
 
 - 技術記事: https://zenn.dev/beachone1155
-- AI収益1円チャレンジの実験ログ: https://beachone1155.hatenablog.com/  
-  ※リンク先には広告・PRを含む記事があります。
+- AI収益1円チャレンジ: [Pixel 9aの手帳型ケース選びで「端からボロボロ」を避けるために見た3ポイント](https://beachone1155.hatenablog.com/entry/2026/08/25/104117)  
+  ※リンク先には広告・PRを含み、楽天アフィリエイトリンクを掲載しています。
 
 <!--
 **beachone1155/beachone1155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
